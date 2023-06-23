@@ -1,2 +1,4 @@
 # proyectofinal
-proyecto final  curso de html y css
+Escuela de código PILARES
+Curso de html y css
+Proyecto final
