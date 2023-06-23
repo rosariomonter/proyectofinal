@@ -1,0 +1,102 @@
+
+
+/* ESTILO DEL VIDEO: 100% width and height to cover the entire window */
+#myVideo {
+  position: float;
+  max-width: 100%;
+  max-height: 100%;
+  top: 0;
+}
+
+
+
+/* ESTILO DEL CONTENIDO */
+.content {
+  /*background: rgba(0, 0, 0, 0.5);*/
+  position: fixed;
+  color: white;
+  width: 100%;
+  padding: 0px;
+  border: 0;
+  margin: 50px;
+  top: 0;
+  botton: 10px;
+}
+
+/* ESTILO DE LA BARRA DE NAVEGACIÓN */
+
+  ul {
+    list-style-type: none;
+    overflow: hidden;
+  }
+
+  li {
+    float: left;
+    font-size: 20px;
+    font-family: Arial Black, Verdana, sans-serif;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 30px;
+    text-decoration: none;
+  }
+
+  li a:hover:not(.active) {
+    background-color: LightGray;
+  }
+
+  .active {
+    background-color: LightGray;
+  }
+
+
+
+/* ESTILO DEL TEXTO */
+.p1 {
+  font-family: Arial Black, Verdana, sans-serif;
+  font-size: 50px;
+  margin: 0px;
+}
+.p2 {
+  font-family: Arial Black, Verdana, sans-serif;
+  font-size: 30px;
+  margin: 0px;
+}
+.p3 {	
+  font-family: Courier, Times New Roman, serif;
+  font-size: 12px;
+  margin: 0px;
+}
+
+/* ESTILO DEL BOTÓN */
+#myBtn {
+  width: 100px;
+  font-size: 14px;
+  padding: 10px;
+  border: none;
+  background: #fff;
+  color: #000;
+  cursor: pointer;
+}
+#myBtn:hover {
+  background: #ddd;
+  color: blue;
+} 
+
+/* ESTILO PIE DE PÁGINA */
+
+footer{
+}
+
+img{
+  width: 20px;
+  heigth: 20px;
+  display: inline-block;
+}
+
+
+
+ 
