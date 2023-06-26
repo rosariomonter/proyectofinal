@@ -1,3 +1,10 @@
+<!-- PROYECTO FINAL 
+     MARIA DEL ROSARIO C MONTER ESPINOSA
+     ESCUELA DE CODIGO, PILARES
+     26 JUNIO 2023
+     código CSS 
+-->
+
 
 /* ESTILO DEL VIDEO: 100% width and height to cover the entire window */
 #myVideo {
@@ -16,7 +23,7 @@
   color: white;
   width: 100%;
   height: auto;
-  padding: 0px;
+  padding: 0px 0px;
   border: 0;
   top: 0;
   botton: 0px;
@@ -29,7 +36,7 @@
     list-style-type: none;
     overflow: hidden;
     padding: 0px 0px;
-  margin: 30px 30px;
+    margin: 30px 30px;
 
   }
 
@@ -45,6 +52,15 @@
     color: white;
     text-align: left;
     padding: 14px 30px;
+    text-decoration: none;
+  }
+
+
+  .l2 {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 30px 14px 700px;
     text-decoration: none;
   }
 
